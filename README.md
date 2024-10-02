@@ -3,6 +3,8 @@ A Token-Based Textual Adversarial attack framework
 
 
 # Citation
+
+```Citation
 @software{yang2024tbta,
   author={Zhang, Yu-Yang and Jiang, Xu-Dong and Wu, Le-yang},
   month = {10},
@@ -11,3 +13,4 @@ A Token-Based Textual Adversarial attack framework
   version = {0.0.1},
   year={2024}
 }
+```
